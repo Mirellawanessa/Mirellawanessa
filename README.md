@@ -1,14 +1,15 @@
-# 👩🏻‍💻 Mirella Wanessa</h1>
-**Desenvolvedora Full Stack Java | PCD (AME Tipo 2)**
+# Hello! I'm Mirella Wanessa 🫰
 
-💬 Sou uma desenvolvedora full stack com foco em criar soluções **eficientes, acessíveis e escaláveis**. Tenho experiência prática com **Java**, **Spring Boot**, **Kotlin**, **PostgreSQL**, **Docker**, **Kafka**, **AWS** e **APIs RESTful**.
+**Full Stack Java Developer | PWD (SMA Type 2)**
 
-💡 Pessoa com deficiência (Atrofia Muscular Espinhal Tipo 2 – CID G12.1).  
-Acredito em ambientes **inclusivos**, onde a **diversidade impulsiona a inovação** e o talento vai além dos padrões físicos.
+💬 I'm a full stack developer focused on building **efficient, accessible, and scalable** solutions. I have hands-on experience with **Java**, **Spring Boot**, **Kotlin**, **PostgreSQL**, **Docker**, **Kafka**, **AWS**, and **RESTful APIs**.
+
+💡 Person with a disability (Spinal Muscular Atrophy Type 2 – ICD G12.1).  
+I believe in **inclusive environments**, where **diversity drives innovation** and talent goes beyond physical standards.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -24,26 +25,26 @@ Acredito em ambientes **inclusivos**, onde a **diversidade impulsiona a inovaç�
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img alt="Mirellawanessa's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Mirellawanessa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      <img alt="Mirellawanessa's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Mirellawanessa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
     </td>
     <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirellawanessa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirellawanessa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤝 Vamos nos Conectar?
+### 🤝 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/mirellawanessa/)  
-- [GitHub](https://github.com/Mirellawanessa)
-- [Instagram](https://www.instagram.com/myfilearchive)
+[![LinkedIn](https://img.shields.io/badge/in/mirellawanessa-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/mirellawanessa/)  
+[![Instagram](https://img.shields.io/badge/@myfilearchive-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/myfilearchive)
+
 ---
 
-> _“A tecnologia deve empoderar a todos — e estou aqui para construir esse futuro.”_
+> _"Technology should empower everyone — and I’m here to help build that future."_
