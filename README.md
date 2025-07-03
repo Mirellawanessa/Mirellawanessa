@@ -1,11 +1,12 @@
 # Hello! I'm Mirella Wanessa 🫰
 
-**Full Stack Java Developer | PWD (SMA Type 2)**
+**Backend Developer | PWD (SMA Type 2)**
 
-💬 I'm a full stack developer focused on building **efficient, accessible, and scalable** solutions. I have hands-on experience with **Java**, **Spring Boot**, **Kotlin**, **PostgreSQL**, **Docker**, **Kafka**, **AWS**, and **RESTful APIs**.
+💬 I'm a backend developer passionate about building **efficient, scalable, and accessible** systems.  
+I have hands-on experience with **Java**, **Spring Boot**, **Kotlin**, **Python**, **.NET (C#)**, **PostgreSQL**, **Docker**, **Kafka**, **AWS**, and **RESTful APIs** — solving real-world challenges involving performance, data structures, and distributed architecture.
 
-💡 Person with a disability (Spinal Muscular Atrophy Type 2 – ICD G12.1).  
-I believe in **inclusive environments**, where **diversity drives innovation** and talent goes beyond physical standards.
+💡 I'm a person with a disability (Spinal Muscular Atrophy Type 2 – ICD G12.1).  
+I believe in **inclusive workplaces** where **diversity fuels innovation** and talent transcends physical standards.
 
 ---
 
