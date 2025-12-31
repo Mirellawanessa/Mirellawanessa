@@ -1,47 +1,89 @@
-# Hello! I'm Mirella Wanessa 🫰
+# Mirella Wanessa  
+**Senior Back-End Software Engineer | Cloud & Distributed Systems**
 
-**Backend Developer | PWD (SMA Type 2)**
+Back-End Software Engineer with 3+ years of experience designing, building, and operating high-performance, scalable microservices and APIs in distributed, cloud-native environments. I specialize in transforming complex technical requirements into resilient, maintainable systems grounded in strong engineering fundamentals such as **SOLID, Clean Architecture, Clean Code, and Test-Driven Development (TDD)**.
 
-💬 I'm a backend developer passionate about building **efficient, scalable, and accessible** systems.  
-I have hands-on experience with **Java**, **Spring Boot**, **Kotlin**, **Python**, **.NET (C#)**, **PostgreSQL**, **Docker**, **Kafka**, **AWS**, and **RESTful APIs** — solving real-world challenges involving performance, data structures, and distributed architecture.
+**English: Full Professional Proficiency**
 
-💡 I'm a person with a disability (Spinal Muscular Atrophy Type 2 – ICD G12.1).  
-I believe in **inclusive workplaces** where **diversity fuels innovation** and talent transcends physical standards.
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+My background includes building event-driven architectures capable of processing **35,000+ events/hour** using **Apache Kafka**, as well as designing cost-efficient, scalable solutions on **AWS**, achieving **~20% reduction in operational costs** through optimized NoSQL data modeling and cloud-native architectural decisions.
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 Core Engineering Principles
 
-<table align="center">
-  <tr>
-    <td>
-      <img alt="Mirellawanessa's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Mirellawanessa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-    </td>
-    <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirellawanessa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
-    </td>
-  </tr>
-</table>
+- Clean Architecture & Domain-Driven Design (DDD – tactical)
+- SOLID, Clean Code, and refactoring for long-term maintainability
+- Event-driven and asynchronous system design
+- Reliability, observability, and fault tolerance
+- High test coverage as a non-negotiable quality gate
 
 ---
+
+## 🛠️ Tech Stack
+
+### Back-End & APIs
+- **Java** (Spring Boot, Spring Cloud)
+- **Node.js** (TypeScript, NestJS / Express)
+- RESTful APIs & asynchronous messaging
+
+### Distributed Systems & Messaging
+- **Apache Kafka** (high-throughput event processing)
+- SQS-based decoupled architectures
+- Idempotency, retries, and dead-letter strategies
+
+### Cloud & Infrastructure (AWS)
+- **AWS Lambda**
+- **SQS**
+- **DynamoDB** (advanced NoSQL modeling)
+- Cloud-native cost optimization
+- Infrastructure-aware application design
+
+### Containers & Orchestration
+- **Docker**
+- **Kubernetes**
+- **Helm**
+- Resilient deployments and scalable workloads
+
+### Observability & Reliability
+- **Prometheus**
+- **Grafana**
+- Metrics-driven monitoring and alerting
+- Proactive incident prevention
+
+### Testing & Quality
+- **JUnit**, **Mockito**
+- **Jest**
+- 80%+ automated test coverage
+- Unit, integration, and contract testing
+
+---
+
+## 📊 Selected Engineering Highlights
+
+- Designed and operated microservices processing **35k+ events/hour** with Kafka
+- Reduced AWS operational costs by **~20%** through DynamoDB access pattern optimization
+- Implemented containerized workloads with Kubernetes and Helm for scalable deployments
+- Built observability pipelines enabling proactive system monitoring and faster incident response
+- Delivered systems with **high test coverage**, ensuring reliability and safe refactoring
+
+---
+
+## ♿ Professional Perspective
+
+I am a professional with a disability (**PCD – AME Type 2 | Tracheostomy**). This experience reinforces my approach to engineering with **discipline, resilience, precision, and long-term thinking**. I consistently prioritize system reliability, technical rigor, and sustainable engineering practices in complex environments.
+
+---
+
+## 🚀 What I’m Looking For
+
+I am seeking opportunities where:
+- Engineering excellence is a core value
+- Scalability and system design matter
+- Decisions are driven by data, architecture, and long-term maintainability
+- Strong back-end and distributed systems expertise is valued
+
+---
+
 
 ### 🤝 Connect with me
 
